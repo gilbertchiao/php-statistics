@@ -1,0 +1,12 @@
+*~
+.DS_Store
+/.idea
+/.vscode
+/work
+/tmp
+
+/vendor
+.phpunit.result.cache
+composer.phar
+composer.lock
+phpunit.xml

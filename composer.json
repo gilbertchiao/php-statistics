@@ -1,0 +1,28 @@
+{
+    "name": "gilbertchiao/statistics",
+    "description": "Simple statistics library.",
+    "keywords": [
+        "statistics"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gilbert Chiao",
+            "email": "gilbertchiao@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "GilbertChiao\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
